@@ -140,3 +140,6 @@ Event Sourcing is a much more complex pattern designed to create a system around
 * Data and services are the result of these events (Read Model)
 
 I will not explain this pattern here but it has a strong relationship with CQRS in a way it separates the events (Write Model) from the queries (Read Model).
+
+
+END
